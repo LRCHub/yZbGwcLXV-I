@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Deep Sleep Sheep",
+  "base_artist": "HACHI",
+  "createdAt": "2025-12-19T02:56:23.931040Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Deep Sleep Sheep",
+      "artist": "Hachi",
+      "has_synced": true,
+      "path": "select/01_Deep_Sleep_Sheep_Hachi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Deep Sleep Sheep",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/02_Deep_Sleep_Sheep_HACHI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Deep Sleep Sheep",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_Deep_Sleep_Sheep_HACHI.txt"
+    }
+  ]
+}
